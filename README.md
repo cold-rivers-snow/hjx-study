@@ -44,6 +44,9 @@ hello world
 
 ## cmake
 
+文本链接：
+链接: https://pan.baidu.com/s/1-n2Kpz61ejcKFGwvofWWNA 
+提取码: 6iuc 
 ### hello
 - t1
 在t1目录下编写main.c 和CMakeLists.txt文件后，执行`cmake .`构建。
